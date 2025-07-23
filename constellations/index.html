@@ -42,7 +42,7 @@
     <script>
     if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
-            navigator.serviceWorker.register('/constellations/sw.js', { 
+            navigator.serviceWorker.register('/PWA_izmailov/constellations/sw.js', { 
             scope: '/constellations/' 
             })
             .then(registration => {
