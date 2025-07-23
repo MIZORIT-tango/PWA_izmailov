@@ -1,4 +1,4 @@
-const CACHE_NAME = 'constellations-pwa-v3'; // Увеличьте версию
+const CACHE_NAME = 'constellations-pwa-v4';
 const PRECACHE_URLS = [
   '/PWA_izmailov/constellations/',
   '/PWA_izmailov/constellations/index.html',
