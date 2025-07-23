@@ -6,8 +6,8 @@
   "background_color": "#275071",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/constellations/",
-  "start_url": "/constellations/",
+  "scope": "/PWA_izmailov/constellations/",
+  "start_url": "/PWA_izmailov/constellations/",
   "icons": [
     {
       "src": "/PWA_izmailov/constellations/images/favicon.png",
